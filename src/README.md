@@ -8,6 +8,8 @@
 
 53. https://leetcode.com/problems/maximum-subarray/
 
+66. https://leetcode.com/problems/plus-one/ 
+
 83. https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 
 100. https://leetcode.com/problems/same-tree/

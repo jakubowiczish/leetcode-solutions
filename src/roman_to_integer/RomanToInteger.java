@@ -1,6 +1,7 @@
 package roman_to_integer;
 
 public class RomanToInteger {
+
     public int romanToInt(String s) {
         int i, result = 0;
 
@@ -53,5 +54,4 @@ public class RomanToInteger {
         }
         return result;
     }
-
 }
