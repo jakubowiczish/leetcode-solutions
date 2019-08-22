@@ -1,4 +1,4 @@
-package RomanToInteger;
+package roman_to_integer;
 
 public class RomanToInteger {
     public int romanToInt(String s) {
