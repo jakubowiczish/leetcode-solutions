@@ -16,4 +16,15 @@
 
 100 https://leetcode.com/problems/same-tree/
 
+112 https://leetcode.com/problems/path-sum/
+
 136 https://leetcode.com/problems/single-number/
+
+202 https://leetcode.com/problems/happy-number/
+
+326 https://leetcode.com/problems/power-of-three/
+
+520 https://leetcode.com/problems/detect-capital/
+
+627 https://leetcode.com/problems/swap-salary/
+
