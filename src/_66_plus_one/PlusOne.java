@@ -1,4 +1,4 @@
-package plus_one;
+package _66_plus_one;
 
 public class PlusOne {
 

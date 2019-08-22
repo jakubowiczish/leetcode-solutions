@@ -1,4 +1,4 @@
-package remove_duplicates_from_sorted_list;
+package _83_remove_duplicates_from_sorted_list;
 
 public class RemoveDuplicatesFromSortedList {
     /**
