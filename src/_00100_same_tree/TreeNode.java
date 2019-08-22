@@ -1,4 +1,4 @@
-package _100_same_tree;
+package _00100_same_tree;
 
 class TreeNode {
     int val;

@@ -1,4 +1,4 @@
-package _53_maximum_subarray;
+package _00053_maximum_subarray;
 
 public class MaximumSubarray {
 

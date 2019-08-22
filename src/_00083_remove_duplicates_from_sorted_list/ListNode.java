@@ -1,4 +1,4 @@
-package _83_remove_duplicates_from_sorted_list;
+package _00083_remove_duplicates_from_sorted_list;
 
 class ListNode {
     int val;
