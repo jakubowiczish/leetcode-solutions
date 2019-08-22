@@ -10,6 +10,8 @@
 
 53 https://leetcode.com/problems/maximum-subarray/
 
+58 https://leetcode.com/problems/length-of-last-word/
+
 66 https://leetcode.com/problems/plus-one/ 
 
 83 https://leetcode.com/problems/remove-duplicates-from-sorted-list/
