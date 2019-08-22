@@ -13,3 +13,5 @@
 83. https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 
 100. https://leetcode.com/problems/same-tree/
+
+136. https://leetcode.com/problems/single-number/
