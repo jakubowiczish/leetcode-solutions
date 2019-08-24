@@ -24,6 +24,8 @@
 
 136 https://leetcode.com/problems/single-number/
 
+197 https://leetcode.com/problems/rising-temperature/
+
 202 https://leetcode.com/problems/happy-number/
 
 217 https://leetcode.com/problems/contains-duplicate/
