@@ -14,6 +14,8 @@
 
 66 https://leetcode.com/problems/plus-one/ 
 
+70 https://leetcode.com/problems/climbing-stairs/
+
 83 https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 
 100 https://leetcode.com/problems/same-tree/
