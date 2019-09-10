@@ -12,6 +12,8 @@
 
 21 https://leetcode.com/problems/merge-two-sorted-lists/
 
+35 https://leetcode.com/problems/search-insert-position/
+
 53 https://leetcode.com/problems/maximum-subarray/
 
 58 https://leetcode.com/problems/length-of-last-word/
