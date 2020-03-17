@@ -13,7 +13,6 @@ def run():
 
 def create_directory_with_readme_file(main_dir, directory_name, link):
     os.chdir(main_dir)
-    os.chdir("main/src")
     os.mkdir(directory_name)
     os.chdir(directory_name)
     readme_file = open("README.md", "w+")
