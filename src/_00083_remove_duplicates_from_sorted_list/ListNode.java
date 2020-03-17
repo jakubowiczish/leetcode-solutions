@@ -1,6 +1,6 @@
 package _00083_remove_duplicates_from_sorted_list;
 
-class ListNode {
+public class ListNode {
     int val;
     ListNode next;
 

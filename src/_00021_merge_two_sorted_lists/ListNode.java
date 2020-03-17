@@ -1,10 +1,10 @@
 package _00021_merge_two_sorted_lists;
 
-class ListNode {
+public class ListNode {
     int val;
     ListNode next;
 
-    ListNode(int x) {
+    public ListNode(int x) {
         val = x;
     }
 }
