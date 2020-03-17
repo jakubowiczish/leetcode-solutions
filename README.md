@@ -1,3 +1,13 @@
+<img src="https://img.shields.io/github/languages/code-size/jakubowiczish/leetcode-solutions?style=for-the-badge"> <img src="https://img.shields.io/github/repo-size/jakubowiczish/leetcode-solutions?color=purple&style=for-the-badge"> 
+<img src="https://img.shields.io/github/languages/count/jakubowiczish/leetcode-solutions?color=green&style=for-the-badge"> 
+<img src="https://img.shields.io/github/languages/top/jakubowiczish/leetcode-solutions?color=orange&style=for-the-badge">
+<img src="https://img.shields.io/github/commit-activity/m/jakubowiczish/leetcode-solutions?color=lime&style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/jakubowiczish/leetcode-solutions?color=darkgreen&style=for-the-badge">
+
+<img src="https://tokei.rs/b1/github/jakubowiczish/leetcode-solutions?category=code" width="200"> <img src="https://tokei.rs/b1/github/jakubowiczish/leetcode-solutions?category=lines" width="175">
+<img src="https://tokei.rs/b1/github/jakubowiczish/leetcode-solutions?category=files" width="90">
+
+
 ### My solutions to problems from: https://leetcode.com/problemset/all/
 
 #### Problems solved:
