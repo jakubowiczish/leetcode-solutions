@@ -16,6 +16,8 @@
 
 2 https://leetcode.com/problems/add-two-numbers/
 
+5 https://leetcode.com/problems/longest-palindromic-substring/
+
 9 https://leetcode.com/problems/palindrome-number/
 
 13 https://leetcode.com/problems/roman-to-integer/
@@ -36,6 +38,8 @@
 
 100 https://leetcode.com/problems/same-tree/
 
+103 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+
 110 https://leetcode.com/problems/rising-temperature/
 
 112 https://leetcode.com/problems/path-sum/
@@ -53,6 +57,4 @@
 520 https://leetcode.com/problems/detect-capital/
 
 627 https://leetcode.com/problems/swap-salary/
-
-103 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 
