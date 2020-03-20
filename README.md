@@ -26,6 +26,8 @@
 
 35 https://leetcode.com/problems/search-insert-position/
 
+46 https://leetcode.com/problems/permutations/
+
 53 https://leetcode.com/problems/maximum-subarray/
 
 58 https://leetcode.com/problems/length-of-last-word/
@@ -57,4 +59,5 @@
 520 https://leetcode.com/problems/detect-capital/
 
 627 https://leetcode.com/problems/swap-salary/
+
 
