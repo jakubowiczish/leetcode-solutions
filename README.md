@@ -38,6 +38,8 @@
 
 83 https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 
+94 https://leetcode.com/problems/binary-tree-inorder-traversal/
+
 100 https://leetcode.com/problems/same-tree/
 
 103 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
@@ -59,5 +61,4 @@
 520 https://leetcode.com/problems/detect-capital/
 
 627 https://leetcode.com/problems/swap-salary/
-
 
