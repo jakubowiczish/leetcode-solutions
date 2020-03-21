@@ -24,6 +24,8 @@
 
 21 https://leetcode.com/problems/merge-two-sorted-lists/
 
+26 https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
 35 https://leetcode.com/problems/search-insert-position/
 
 46 https://leetcode.com/problems/permutations/
