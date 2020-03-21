@@ -26,6 +26,8 @@
 
 26 https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
+27 https://leetcode.com/problems/remove-element/
+
 35 https://leetcode.com/problems/search-insert-position/
 
 46 https://leetcode.com/problems/permutations/
