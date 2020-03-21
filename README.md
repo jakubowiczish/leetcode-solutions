@@ -52,6 +52,8 @@
 
 112 https://leetcode.com/problems/path-sum/
 
+118 https://leetcode.com/problems/pascals-triangle/
+
 136 https://leetcode.com/problems/single-number/
 
 197 https://leetcode.com/problems/rising-temperature/
