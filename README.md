@@ -72,6 +72,8 @@
 
 344 https://leetcode.com/problems/reverse-string/
 
+350 https://leetcode.com/problems/intersection-of-two-arrays-ii/
+
 387 https://leetcode.com/problems/first-unique-character-in-a-string/
 
 412 https://leetcode.com/problems/fizz-buzz/
