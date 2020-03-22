@@ -68,6 +68,8 @@
 
 326 https://leetcode.com/problems/power-of-three/
 
+387 https://leetcode.com/problems/first-unique-character-in-a-string/
+
 412 https://leetcode.com/problems/fizz-buzz/
 
 442 https://leetcode.com/problems/find-all-duplicates-in-an-array/
@@ -77,5 +79,4 @@
 627 https://leetcode.com/problems/swap-salary/
 
 905 https://leetcode.com/problems/sort-array-by-parity/
-
 
