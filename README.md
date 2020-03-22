@@ -38,6 +38,8 @@
 
 58 https://leetcode.com/problems/length-of-last-word/
 
+64 https://leetcode.com/problems/minimum-path-sum/
+
 66 https://leetcode.com/problems/plus-one/ 
 
 70 https://leetcode.com/problems/climbing-stairs/
