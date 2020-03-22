@@ -1,0 +1,25 @@
+package _00344_reverse_string;
+
+import java.util.Arrays;
+
+public class ReverseString {
+
+    public static void main(String[] args) {
+        char[] chars = "essasito wariacie".toCharArray();
+        reverseString(chars);
+        System.out.println(Arrays.toString(chars));
+    }
+
+    public static void reverseString(char[] s) {
+        int i = 0;
+        int j = s.length - 1;
+
+        while (i < j) {
+            char tmp = s[i];
+            s[i] = s[j];
+            s[j] = tmp;
+            ++i;
+            --j;
+        }
+    }
+}
