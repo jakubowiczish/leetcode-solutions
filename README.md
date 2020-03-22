@@ -66,6 +66,8 @@
 
 326 https://leetcode.com/problems/power-of-three/
 
+442 https://leetcode.com/problems/find-all-duplicates-in-an-array/
+
 520 https://leetcode.com/problems/detect-capital/
 
 627 https://leetcode.com/problems/swap-salary/
