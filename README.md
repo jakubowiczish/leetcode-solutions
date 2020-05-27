@@ -104,3 +104,4 @@
 
 905 https://leetcode.com/problems/sort-array-by-parity/
 
+14 https://leetcode.com/problems/longest-common-prefix/
