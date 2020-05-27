@@ -26,6 +26,8 @@
 
 13 https://leetcode.com/problems/roman-to-integer/
 
+14 https://leetcode.com/problems/longest-common-prefix/
+
 15 https://leetcode.com/problems/3sum/
 
 20 https://leetcode.com/problems/valid-parentheses/
@@ -70,6 +72,8 @@
 
 118 https://leetcode.com/problems/pascals-triangle/
 
+121 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
 136 https://leetcode.com/problems/single-number/
 
 167 https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
@@ -104,4 +108,4 @@
 
 905 https://leetcode.com/problems/sort-array-by-parity/
 
-14 https://leetcode.com/problems/longest-common-prefix/
+
