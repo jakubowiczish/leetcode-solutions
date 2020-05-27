@@ -48,6 +48,8 @@
 
 54 https://leetcode.com/problems/spiral-matrix/
 
+56 https://leetcode.com/problems/merge-intervals/
+
 58 https://leetcode.com/problems/length-of-last-word/
 
 64 https://leetcode.com/problems/minimum-path-sum/
@@ -109,4 +111,5 @@
 627 https://leetcode.com/problems/swap-salary/
 
 905 https://leetcode.com/problems/sort-array-by-parity/
+
 
