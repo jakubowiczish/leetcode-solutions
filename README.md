@@ -50,6 +50,8 @@
 
 66 https://leetcode.com/problems/plus-one/ 
 
+67 https://leetcode.com/problems/add-binary/
+
 70 https://leetcode.com/problems/climbing-stairs/
 
 83 https://leetcode.com/problems/remove-duplicates-from-sorted-list/
@@ -69,6 +71,10 @@
 136 https://leetcode.com/problems/single-number/
 
 167 https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+
+175 https://leetcode.com/problems/combine-two-tables/
+
+176 https://leetcode.com/problems/second-highest-salary/
 
 197 https://leetcode.com/problems/rising-temperature/
 
@@ -96,5 +102,3 @@
 
 905 https://leetcode.com/problems/sort-array-by-parity/
 
-175 https://leetcode.com/problems/combine-two-tables/
-176 https://leetcode.com/problems/second-highest-salary/
