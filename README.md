@@ -97,3 +97,4 @@
 905 https://leetcode.com/problems/sort-array-by-parity/
 
 175 https://leetcode.com/problems/combine-two-tables/
+176 https://leetcode.com/problems/second-highest-salary/
