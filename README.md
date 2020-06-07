@@ -68,6 +68,8 @@
 
 103 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 
+104 https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
 110 https://leetcode.com/problems/rising-temperature/
 
 112 https://leetcode.com/problems/path-sum/
@@ -111,5 +113,4 @@
 627 https://leetcode.com/problems/swap-salary/
 
 905 https://leetcode.com/problems/sort-array-by-parity/
-
 
