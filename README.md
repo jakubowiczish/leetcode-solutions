@@ -80,6 +80,8 @@
 
 122 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 
+125 https://leetcode.com/problems/valid-palindrome/
+
 136 https://leetcode.com/problems/single-number/
 
 167 https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
@@ -113,4 +115,5 @@
 627 https://leetcode.com/problems/swap-salary/
 
 905 https://leetcode.com/problems/sort-array-by-parity/
+
 
