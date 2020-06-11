@@ -90,6 +90,8 @@
 
 176 https://leetcode.com/problems/second-highest-salary/
 
+196 https://leetcode.com/problems/delete-duplicate-emails/
+
 197 https://leetcode.com/problems/rising-temperature/
 
 202 https://leetcode.com/problems/happy-number/
@@ -115,5 +117,4 @@
 627 https://leetcode.com/problems/swap-salary/
 
 905 https://leetcode.com/problems/sort-array-by-parity/
-
 
