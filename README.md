@@ -100,6 +100,8 @@
 
 217 https://leetcode.com/problems/contains-duplicate/
 
+283 https://leetcode.com/problems/move-zeroes/
+
 326 https://leetcode.com/problems/power-of-three/
 
 344 https://leetcode.com/problems/reverse-string/
