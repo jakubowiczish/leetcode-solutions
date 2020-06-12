@@ -106,6 +106,8 @@
 
 344 https://leetcode.com/problems/reverse-string/
 
+349 https://leetcode.com/problems/intersection-of-two-arrays/
+
 350 https://leetcode.com/problems/intersection-of-two-arrays-ii/
 
 387 https://leetcode.com/problems/first-unique-character-in-a-string/
