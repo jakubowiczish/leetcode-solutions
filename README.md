@@ -118,6 +118,8 @@
 
 442 https://leetcode.com/problems/find-all-duplicates-in-an-array/
 
+507 https://leetcode.com/problems/perfect-number/
+
 509 https://leetcode.com/problems/fibonacci-number/
 
 520 https://leetcode.com/problems/detect-capital/
