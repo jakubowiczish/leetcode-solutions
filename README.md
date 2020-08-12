@@ -102,6 +102,8 @@
 
 202 https://leetcode.com/problems/happy-number/
 
+205 https://leetcode.com/problems/isomorphic-strings/
+
 206 https://leetcode.com/problems/reverse-linked-list/
 
 217 https://leetcode.com/problems/contains-duplicate/
