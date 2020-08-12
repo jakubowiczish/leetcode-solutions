@@ -110,6 +110,8 @@
 
 226 https://leetcode.com/problems/invert-binary-tree/
 
+263 https://leetcode.com/problems/ugly-number/
+
 283 https://leetcode.com/problems/move-zeroes/
 
 326 https://leetcode.com/problems/power-of-three/
