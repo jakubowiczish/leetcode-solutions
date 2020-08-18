@@ -78,6 +78,8 @@
 
 110 https://leetcode.com/problems/rising-temperature/
 
+111 https://leetcode.com/problems/minimum-depth-of-binary-tree/
+
 112 https://leetcode.com/problems/path-sum/
 
 118 https://leetcode.com/problems/pascals-triangle/
@@ -137,4 +139,5 @@
 627 https://leetcode.com/problems/swap-salary/
 
 905 https://leetcode.com/problems/sort-array-by-parity/
+
 
