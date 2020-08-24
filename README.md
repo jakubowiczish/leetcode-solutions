@@ -108,6 +108,8 @@
 
 202 https://leetcode.com/problems/happy-number/
 
+204 https://leetcode.com/problems/count-primes/
+
 205 https://leetcode.com/problems/isomorphic-strings/
 
 206 https://leetcode.com/problems/reverse-linked-list/
