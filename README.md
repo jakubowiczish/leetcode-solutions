@@ -120,6 +120,8 @@
 
 226 https://leetcode.com/problems/invert-binary-tree/
 
+230 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+
 263 https://leetcode.com/problems/ugly-number/
 
 283 https://leetcode.com/problems/move-zeroes/
@@ -147,5 +149,4 @@
 627 https://leetcode.com/problems/swap-salary/
 
 905 https://leetcode.com/problems/sort-array-by-parity/
-
 
