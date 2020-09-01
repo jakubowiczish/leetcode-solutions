@@ -142,6 +142,8 @@
 
 412 https://leetcode.com/problems/fizz-buzz/
 
+415 https://leetcode.com/problems/add-strings/
+
 442 https://leetcode.com/problems/find-all-duplicates-in-an-array/
 
 507 https://leetcode.com/problems/perfect-number/
@@ -153,3 +155,4 @@
 627 https://leetcode.com/problems/swap-salary/
 
 905 https://leetcode.com/problems/sort-array-by-parity/
+
