@@ -8,6 +8,12 @@
 <img src="https://tokei.rs/b1/github/jakubowiczish/leetcode-solutions?category=files" width="90">
 
 
+```
+script example usage:
+
+python3 .\create_dir.py src 442 _00442_find_all_duplicates_in_an_array https://leetcode.com/problems/find-all-duplicates-in-an-array/
+```
+
 ### My solutions to problems from: https://leetcode.com/problemset/all/
 
 #### Problems solved:
